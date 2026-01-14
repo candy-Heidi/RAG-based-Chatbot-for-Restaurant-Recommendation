@@ -89,6 +89,16 @@ This prevents hallucination and keeps responses data-driven.
 
 ---
 
+## 📄 Related Publication
+
+This code is based on research that has been published as an academic paper.  
+The paper can be accessed at the link below.
+
+- **Paper:** https://drive.google.com/drive/folders/1a5hwtDlY_KU2EV2XmC2gKNA-y4MxT-cS?usp=sharing
+- **Language:** Korean
+
+---
+
 ## ⚠ Notes
 
 - This repository is intended for **concept demonstration purposes**
